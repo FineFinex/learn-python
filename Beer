@@ -1,0 +1,11 @@
+#Francesco Finetto
+#I love beer
+
+
+print("  ║              ║     ")
+print("  ║--------------║═══╗ ")
+print("  ║              ║   ║ ")
+print("  ║              ║   ║ ")
+print("  ║              ║═══╝ ")
+print("  ║              ║     ")
+print("  ╚══════════════╝     ")
